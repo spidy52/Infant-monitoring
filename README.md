@@ -77,6 +77,9 @@ cd Infant-monitoring
 pip install -r requirements.txt
 ```
 
+**Dataset Required:**
+https://drive.google.com/drive/folders/1RuZNP7CYrvsIdl3YHMMAnuhde9DlkIy3?usp=sharing
+
 **Hardware Required:**
 - Raspberry Pi 5 (or compatible PC)
 - USB Microphone
